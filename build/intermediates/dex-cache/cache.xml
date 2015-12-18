@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diego/AndroidStudioProjects/PaymentMethods/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c2163ac259b102ec31234568df3060b520070b8">
+        <dex dex="/home/diego/AndroidStudioProjects/PaymentMethods/app/build/intermediates/pre-dexed/debug/classes_67d234b07d1adbf860872bd7a58484d965c2cbaa.jar" />
+    </item>
+
+</items>
