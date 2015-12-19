@@ -1,4 +1,4 @@
-package com.example.diego.model;
+package com.example.diego.paymentmethods.model;
 
 /**
  * Created by diego on 17/12/15.

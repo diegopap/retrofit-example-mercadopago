@@ -1,4 +1,4 @@
-package com.example.diego.adapter;
+package com.example.diego.paymentmethods.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,8 +7,9 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.example.diego.model.PaymentMethod;
 import com.example.diego.paymentmethods.R;
+import com.example.diego.paymentmethods.model.PaymentMethod;
+
 
 import java.util.List;
 
